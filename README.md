@@ -4,13 +4,14 @@ This repository contains the code and resources for a Bankruptcy Prediction proj
 <H3>Background</H3>
 Bankruptcy prediction is vital for stakeholders such as investors, creditors, and regulatory agencies. Traditional methods relied heavily on financial ratios and expert opinions, but the rise of big data and machine learning offers an opportunity to improve prediction accuracy. This project seeks to address the challenges of non-linear financial data relationships and class imbalance using advanced algorithms.
 
-Project Objective
+<H3>Project Objective</H3>
 The main goal of this project is to create a machine learning model capable of predicting corporate bankruptcies based on historical financial indicators. The project uses a dataset sourced from Kaggle and applies various machine learning techniques to create a predictive model. Key questions addressed include:
-
-Which financial indicators are the most predictive of bankruptcy?
-How can we manage the class imbalance between bankrupt and non-bankrupt companies?
-Which model performs best in terms of prediction accuracy?
-How can the model’s results be made interpretable for stakeholders?
+<ol>
+  <li>Which financial indicators are the most predictive of bankruptcy?</li>
+  <li>How can we manage the class imbalance between bankrupt and non-bankrupt companies?</li>
+  <li>Which model performs best in terms of prediction accuracy?</li>
+  <li>How can the model’s results be made interpretable for stakeholders?</li>
+</ol>
 Dataset Overview
 Source: Kaggle
 Time Period: 1999-2018
