@@ -1,7 +1,7 @@
 # Bankruptcy_Prediction Using Machine Learning 
 This repository contains the code and resources for a Bankruptcy Prediction project aimed at forecasting the financial insolvency of publicly traded U.S. companies using machine learning algorithms. The project leverages historical financial data spanning nearly two decades (1999-2018) to build models that assist in identifying companies at risk of bankruptcy. The predictions can help investors, creditors, and regulators to make informed decisions.
 
-Background
+<H3>Background</H3>
 Bankruptcy prediction is vital for stakeholders such as investors, creditors, and regulatory agencies. Traditional methods relied heavily on financial ratios and expert opinions, but the rise of big data and machine learning offers an opportunity to improve prediction accuracy. This project seeks to address the challenges of non-linear financial data relationships and class imbalance using advanced algorithms.
 
 Project Objective
