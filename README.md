@@ -13,11 +13,12 @@ The main goal of this project is to create a machine learning model capable of p
   <li>How can the model’s results be made interpretable for stakeholders?</li>
 </ol>
 Dataset Overview
-Source: Kaggle
-Time Period: 1999-2018
-Records: 78,682 rows
-Columns: 21 (including financial indicators such as market value, total liabilities, and net income)
-Target Variable: status_label (binary classification: bankrupt or non-bankrupt)
+<ul>
+<li><strong>Time Period:</strong>999-2018</li>
+<li><strong>Records:</strong> 78,682 rows</li>
+<li><strong>Columns:</strong> 21 (including financial indicators such as market value, total liabilities, and net income)</li>
+<li><strong>Target Variable:</strong> status_label (binary classification: bankrupt or non-bankrupt)</li>
+</ul>
 Models Used
 The following machine learning models were evaluated for performance:
 
